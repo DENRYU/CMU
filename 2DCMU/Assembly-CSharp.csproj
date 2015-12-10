@@ -47,8 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\ButtonS1.cs" />
+     <Compile Include="Assets\Script\ButtonS2.cs" />
+     <Compile Include="Assets\Script\ButtonS3.cs" />
+     <Compile Include="Assets\Script\ButtonS4.cs" />
      <Compile Include="Assets\Script\SerihuP.cs" />
      <Compile Include="Assets\Script\Time.cs" />
+     <Compile Include="Assets\Script\Web.cs" />
+     <Compile Include="Assets\Script\WebMain.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

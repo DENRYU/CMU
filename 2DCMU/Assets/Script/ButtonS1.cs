@@ -12,12 +12,11 @@ public class ButtonS1 : MonoBehaviour {
 	void Update () {
 	
 	}
-
-	public void ButanC(){
-		Debug.Log ("ボタンクリック1!");
-	}
+	
 
 	public void SceneLoad(){
-		Application.LoadLevel(Application.loadedLevel);
+		Debug.Log ("ボタンクリック1!");
+		Application.LoadLevel("News");
 	}
+
 }

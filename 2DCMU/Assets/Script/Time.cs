@@ -15,7 +15,7 @@ public class Time : MonoBehaviour {
 	void Start () {
 	
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		now = System.DateTime.Now;
