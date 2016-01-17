@@ -1,13 +1,9 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\WebMain.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Text\kari.txt">
     <Files>
-      <File FileName="2DCMU.sln" Line="1" Column="1" />
-      <File FileName="Assets\Script\WebMain.cs" Line="48" Column="3" />
-      <File FileName="..\..\..\..\Desktop\zisaku01\Assets\Scripts\Finish.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\Desktop\zisaku01\Assets\Scripts\goal.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\Desktop\zisaku01\Assets\Scripts\Hiscore.cs" Line="1" Column="1" />
-      <File FileName="..\..\..\..\Desktop\zisaku01\Assets\Scripts\Narabe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NewSinarioLoad.cs" Line="55" Column="33" />
+      <File FileName="Assets\Resources\Text\kari.txt" Line="8" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

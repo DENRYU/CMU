@@ -11,7 +11,7 @@ public class WebMain : MonoBehaviour {
 	UnityWebRequest request;
 	*/
 	public string url;
-	public Text text;
+	public GUIText text;
 	// Use this for initialization
 	void Start () {
 		text.text = "";
